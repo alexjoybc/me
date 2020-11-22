@@ -6,4 +6,34 @@
 
 [![nttdata](/docs/NTT-Data-Logo.png)](https://ca.nttdata.com/en/)  
 **Role:** Lead Software Developer  
-**Contract:** BC government Ministry of Justice
+**Contract:** British Columbia Attorney General
+
+## Experience
+
+### NTT DATA - Lead Software Developer - Since Octobre 2016
+
+TBD
+
+### Frenquency Foundry - Senior Software Developer
+
+TBD
+
+### Proceed Solution - Software Developer
+
+TBD
+
+### Saipem Canada - Software Developer
+
+TBD
+
+### Reseau Ferre de France - Sofware Analyst
+
+TBD
+
+### VFLI - Software Analyst
+
+TBD
+
+### Previous
+
+
