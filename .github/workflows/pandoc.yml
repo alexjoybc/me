@@ -10,7 +10,7 @@ jobs:
       - run: |
           mkdir output
           echo "FILELIST=README.md" >> $GITHUB_ENV
-      - uses: docker://pandoc/latex:2.9
+      - uses: docker://pandoc/latex:2.11.2
         with:
           args: -f gfm --output=output/result.pdf ${{ env.FILELIST }}
       - uses: actions/upload-artifact@master
