@@ -2,8 +2,7 @@
 papersize: letter
 geometry:
     - margin=20mm
-fontfamily: Noto Sans
-fontfamilyoptions: sfdefault
+fontfamily: bera
 ...
 
 # Alexandre Joyeux
