@@ -11,17 +11,21 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - run: mkdir output
-      - name: add personal details
-        uses: jacobtomlinson/gha-find-replace@master
+      - name: Read ./config/header.yml
+        id: header
+        uses: juliangruber/read-file-action@v1
         with:
-          find: "<!--{ADDRESS}-->"
-          replace: ${{ secrets.ADDRESS }}
-          include: "README.md"
+          path: ./config/header.yml
       - name: add page meta data
         uses: jacobtomlinson/gha-find-replace@master
         with:
           find: "<!--{META}-->"
-          replace: ${{ secrets.META }}
+          replace: ${{ steps.header.outputs.content }}
+          include: "README.md"
+      - uses: jacobtomlinson/gha-find-replace@master
+        with:
+          find: "<!--{ADDRESS}-->"
+          replace: ${{ secrets.ADDRESS }}
           include: "README.md"
       - name: insert page breaks
         uses: jacobtomlinson/gha-find-replace@master
