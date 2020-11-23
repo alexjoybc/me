@@ -15,7 +15,7 @@ Accomplished Lead Software Developer specialized in web development, integration
 **Services:** ElasticSearch, Redis, RabbitMq, Jeagger, MSSql  
 **Platform:** OpenShift, Azure  
 **IDE**: VSCode, IntelliJ, Visual Studio  
-**Devops Tools:** Git, Github, Github Actions, Code Climate, SonarQube, Docker, Docker-compose, GitKraken, mvn, Jira
+**Devops Tools:** Git, Github, Github Actions, Code Climate, SonarQube, Docker, Docker-compose, GitKraken, mvn, Jira  
 **Spec & Documentation:** Markdown, OpenApi, Docsify, Confluance  
 
 ## Professional History
