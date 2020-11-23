@@ -5,6 +5,7 @@ geometry:
 header-includes: |
     \usepackage{fancyhdr}
     \pagestyle{fancy}
-    \fancyfoot[RO,RE]{build with Pandoc, source: https://github.com/alexjoybc/me}
+    \fancyfoot[LO,LE]{build with Pandoc, source: https://github.com/alexjoybc/me}
+    \fancyfoot[RO, LE] {\thepage}
 abstract: This is a pandoc test . . . 
 ...
