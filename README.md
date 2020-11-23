@@ -2,7 +2,7 @@
 papersize: letter
 geometry:
     - margin=20mm
-fontfamily: Arev
+fontfamily: avantgar
 ...
 
 # Alexandre Joyeux
