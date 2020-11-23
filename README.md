@@ -14,7 +14,7 @@ Accomplished Lead Software Developer specialized in web development, integration
 **Languages:** C#, Java, Javascript, Python, SQL  
 **Frameworks:** .netCore, Spring boot, Quarkus, ReactJs  
 **Platform:** OpenShift, Azure  
-**Tools:** Github, Github Actions, Docker, Docker-compose, VScode, Visual Studio, IntelliJ
+**Tools:** Github, Github Actions, Docker, Docker-compose, VScode, Visual Studio, IntelliJ  
 **Spec & Documentation:** Markdown, OpenApi  
 
 ## Professional History
