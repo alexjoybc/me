@@ -1,9 +1,3 @@
----
-papersize: letter
-geometry:
-    - margin=20mm
-...
-
 # Alexandre Joyeux
 
 <!--{Adress}-->
