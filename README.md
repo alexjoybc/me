@@ -1,4 +1,4 @@
-<!--{METADATA}-->
+<!--{META}-->
 # Alexandre Joyeux
 
 <!--{ADDRESS}-->

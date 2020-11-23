@@ -17,11 +17,11 @@ jobs:
           find: "<!--{ADDRESS}-->"
           replace: ${{ secrets.ADDRESS }}
           include: "README.md"
-      - name: add personal details
+      - name: remove comments 1
         uses: jacobtomlinson/gha-find-replace@master
         with:
-          find: "<!--{METADATA}-->"
-          replace: ${{ secrets.METADATA }}
+          find: "<!--{META}-->"
+          replace: ${{ secrets.ADDRESS }}
           include: "README.md"
       - name: convert readme to pdf
         uses: docker://pandoc/latex:2.11.2
