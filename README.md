@@ -1,6 +1,7 @@
+<!--{METADATA}-->
 # Alexandre Joyeux
 
-<!--{Adress}-->
+<!--{ADDRESS}-->
 
 [![linkedin](./docs/LI-Logo.png)](https://linkedin.com/in/joyeux-alexandre-76263833) [![github](./docs/GitHub_Logo.png)](https://github.com/alexjoybc)
 
