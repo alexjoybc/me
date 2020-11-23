@@ -47,6 +47,7 @@ Accomplished Lead Software Developer specialized in web development, integration
 - Migrate company to use git (azure devops) over TFS
 - Deploy solution on Azure Web App using Azure pipelines
 <!--{BREAK}-->
+
 ### Proceed Solution | Software Developer | Aug 2015 - Dec 2015
 
 - Contribute to Source code (AngularJs/dotnet 4.5) by implementing new feature to track contracts in GIS solution
