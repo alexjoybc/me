@@ -36,7 +36,7 @@ jobs:
       - name: convert readme to pdf
         uses: docker://pandoc/latex:2.11.2
         with:
-          args: --defaults ./config/profile.yml -H ./config/global.tex
+          args: --pdf-engine=lualatex --defaults ./config/profile.yml -H ./config/global.tex
       - uses: actions/upload-artifact@master
         with:
           name: alexandreJoyeux
