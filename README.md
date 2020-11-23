@@ -52,7 +52,7 @@ Accomplished Lead Software Developer specialized in web development, integration
 - Contribute to Source code (AngularJs/dotnet 4.5) by implementing new feature to track contracts in GIS solution
 - Introduce Team to Unit Testing benefits
 - Introduce Team to JavaScript Build scripts
-
+<!--{BREAK}-->
 ### [Saipem Canada](https://www.saipem.com/en) | Software Developer | Jul 2012 - Aug 2015
 
 - Contribute to Source code of Invoice Tracking Solution

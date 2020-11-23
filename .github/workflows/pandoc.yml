@@ -17,11 +17,17 @@ jobs:
           find: "<!--{ADDRESS}-->"
           replace: ${{ secrets.ADDRESS }}
           include: "README.md"
-      - name: remove comments 1
+      - name: add page meta data
         uses: jacobtomlinson/gha-find-replace@master
         with:
           find: "<!--{META}-->"
           replace: ${{ secrets.META }}
+          include: "README.md"
+      - name: insert page breaks
+        uses: jacobtomlinson/gha-find-replace@master
+        with:
+          find: "<!--{BREAK}-->"
+          replace: "\\newpage"
           include: "README.md"
       - name: convert readme to pdf
         uses: docker://pandoc/latex:2.11.2
