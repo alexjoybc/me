@@ -4,6 +4,7 @@ geometry:
     - margin=20mm
 header-includes: |
     \usepackage{fancyhdr}
+    \pagestyle{fancy}
     \fancyfoot[LO,LE]{build with Pandoc, source: https://github.com/alexjoybc/me}
     \fancyfoot[RO, LE] {\thepage}
 abstract: This is a pandoc test . . . 
