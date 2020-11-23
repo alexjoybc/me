@@ -2,7 +2,11 @@
 papersize: letter
 geometry:
     - margin=20mm
-fontfamily: avantgar
+mainfont: Font-Regular.otf
+mainfontoptions:
+- BoldFont=Font-Bold.otf
+- ItalicFont=Font-Italic.otf
+- BoldItalicFont=Font-BoldItalic.otf
 ...
 
 # Alexandre Joyeux
