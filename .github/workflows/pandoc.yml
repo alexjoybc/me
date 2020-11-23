@@ -12,7 +12,7 @@ jobs:
           echo "FILELIST=README.md" >> $GITHUB_ENV
       - uses: docker://pandoc/latex:2.11.2
         with:
-          args: -s README.md --output=output/resume.pdf
+          args: --pdf-engine=lualatex -s README.md --output=output/resume.pdf
       - uses: actions/upload-artifact@master
         with:
           name: resume.pdf
