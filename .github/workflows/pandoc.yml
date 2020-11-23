@@ -32,7 +32,7 @@ jobs:
       - name: convert readme to pdf
         uses: docker://pandoc/latex:2.11.2
         with:
-          args: -s README.md --output=output/resume.pdf
+          args: --defaults ./config/profile.yml
       - uses: actions/upload-artifact@master
         with:
           name: alexandreJoyeux
