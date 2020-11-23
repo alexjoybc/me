@@ -7,13 +7,18 @@ jobs:
     runs-on: ubuntu-18.04
     steps:
       - uses: actions/checkout@v2
-      - run: |
-          mkdir output
-          echo "FILELIST=README.md" >> $GITHUB_ENV
-      - uses: docker://pandoc/latex:2.11.2
+      - run: mkdir output
+      - name: add personal details
+        uses: jacobtomlinson/gha-find-replace@master
+        with:
+          find: "<!--{Adress}-->"
+          replace: ${{ secrets.Address }}
+          include: "README.md"
+      - name: convert readme to pdf
+        uses: docker://pandoc/latex:2.11.2
         with:
           args: -s README.md --output=output/resume.pdf
       - uses: actions/upload-artifact@master
         with:
-          name: resume.pdf
-          path: output/resume.pdf
+          name: alexandreJoyeux
+          path: output
