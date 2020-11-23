@@ -2,7 +2,7 @@
 title: Alexandre Joyeux
 papersize: letter
 geometry:
-- margin=20mm
+    - margin=20mm
 ...
 
 # Alexandre Joyeux
