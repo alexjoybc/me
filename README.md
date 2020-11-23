@@ -2,7 +2,7 @@
 papersize: letter
 geometry:
     - margin=20mm
-fontfamily: opensans
+fontfamily: Noto Sans
 fontfamilyoptions: sfdefault
 ...
 
