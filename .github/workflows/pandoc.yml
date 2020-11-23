@@ -11,22 +11,32 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - run: mkdir output
-      - name: add personal details
+      - name: Read ./config/header.yml
+        id: header
+        uses: juliangruber/read-file-action@v1
+        with:
+          path: ./config/header.yml
+      - name: add page meta data
         uses: jacobtomlinson/gha-find-replace@master
+        with:
+          find: "<!--{META}-->"
+          replace: ${{ steps.header.outputs.content }}
+          include: "README.md"
+      - uses: jacobtomlinson/gha-find-replace@master
         with:
           find: "<!--{ADDRESS}-->"
           replace: ${{ secrets.ADDRESS }}
           include: "README.md"
-      - name: remove comments 1
+      - name: insert page breaks
         uses: jacobtomlinson/gha-find-replace@master
         with:
-          find: "<!--{META}-->"
-          replace: ${{ secrets.META }}
+          find: "<!--{BREAK}-->"
+          replace: "\\newpage"
           include: "README.md"
       - name: convert readme to pdf
         uses: docker://pandoc/latex:2.11.2
         with:
-          args: -s README.md --output=output/resume.pdf
+          args: --defaults ./config/profile.yml -H ./config/global.tex
       - uses: actions/upload-artifact@master
         with:
           name: alexandreJoyeux

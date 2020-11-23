@@ -1,0 +1,6 @@
+---
+papersize: letter
+geometry:
+    - margin=20mm
+abstract: This is a pandoc test . . . 
+...
