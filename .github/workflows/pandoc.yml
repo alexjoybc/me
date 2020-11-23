@@ -7,6 +7,12 @@ jobs:
     runs-on: ubuntu-18.04
     steps:
       - uses: actions/checkout@v2
+      - name: add personal details
+        uses: jacobtomlinson/gha-find-replace@master
+        with:
+          find: "<!--{Adress}-->"
+          replace: ${{ secrets.Address }}
+          include: "README.md"
       - name: convert readme to pdf
         uses: docker://pandoc/latex:2.11.2
         with:
