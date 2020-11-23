@@ -25,9 +25,9 @@
 
 ## Educational History
 
-Sup de Log | Master Degree (France) | Logistics
+Sup de Log 2009 | Master Degree (France) | Logistics
 
-Ecole Des Managers | Master Degree (France) | Business
+Ecole Des Managers 2006 | Master Degree (France) | Business
 
 ## Sports
 
