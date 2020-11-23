@@ -2,7 +2,7 @@
 papersize: letter
 geometry:
     - margin=20mm
-fontfamilly: Open Sans
+fontfamily: Open Sans
 ...
 
 # Alexandre Joyeux
