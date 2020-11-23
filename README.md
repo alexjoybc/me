@@ -53,7 +53,7 @@ Accomplished Lead Software Developer specialized in web development, integration
 - Deploy solution on Azure Web App using Azure pipelines
 <!--{BREAK}-->
 
-### Proceed Solution | Software Developer | Aug 2015 - Dec 2015
+### Proceed Solution | Aug 2015 - Dec 2015
 
 > **Role:** Software Developer    
 **Stack:** dotNet Core, AngularJs, Dynamics
@@ -62,7 +62,7 @@ Accomplished Lead Software Developer specialized in web development, integration
 - Introduce Team to Unit Testing benefits
 - Introduce Team to JavaScript Build scripts
 
-### [Saipem Canada](https://www.saipem.com/en) | Software Developer | Jul 2012 - Aug 2015
+### [Saipem Canada](https://www.saipem.com/en) | Jul 2012 - Aug 2015
 
 > **Role:** Software Developer  
 **Stack:** DotNet 4.5, AngularJs
@@ -70,7 +70,7 @@ Accomplished Lead Software Developer specialized in web development, integration
 - Contribute to Source code of Invoice Tracking Solution
 - Introduce Team to concept of modern web stack using javascript application and web Apis.
 
-### [Reseau Ferre de France](https://www.sncf-reseau.com/) | Sofware Analyst | Sep 2010 - Apr 2012
+### [Reseau Ferre de France](https://www.sncf-reseau.com/) | Sep 2010 - Apr 2012
 
 > **Role:** Sofware Analyst  
 **Stack:** Java Spring, Oracle SQL
@@ -80,7 +80,7 @@ Accomplished Lead Software Developer specialized in web development, integration
 - Organized workshop to present software to company's clients
 
 
-### [VFLI](https://www.vfli.fr/) | Software Analyst | Sept 2009 - Aug 2010
+### [VFLI](https://www.vfli.fr/) | Sept 2009 - Aug 2010
 
 > **Role:** Sofware Analyst  
 **Stack:** LAMP
