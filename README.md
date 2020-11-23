@@ -3,6 +3,7 @@ title: Alexandre Joyeux
 papersize: letter
 geometry:
     - margin=20mm
+fontfamily: Open Sans
 ...
 
 # Alexandre Joyeux
