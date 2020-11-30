@@ -92,7 +92,7 @@ Accomplished Lead Software Developer specialized in web development, integration
 
 Sup de Log 2009 | Master Degree (France) | Logistics
 
-Ecole Des Managers 2006 | Master Degree (France) | Business
+Ecole Des Managers 2006 | Bachelor (France) | Business
 
 ## Sports
 
