@@ -11,7 +11,7 @@ Accomplished Lead Software Developer specialized in web development, integration
 ## Skills
 
 **Languages:** C#, Java, JavaScript, Python, SQL  
-**Frameworks:** .netCore, Spring boot, Quarkus, React 
+**Frameworks:** .netCore, Spring boot, Quarkus, React  
 **Services:** ElasticSearch, Redis, RabbitMq, Jeagger, MSSql  
 **Platform:** OpenShift, Azure  
 **IDE**: VSCode, IntelliJ, Visual Studio  
