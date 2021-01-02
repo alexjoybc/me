@@ -72,7 +72,7 @@ Accomplished Lead Software Developer specialized in web development, integration
 
 ### [Reseau Ferre de France](https://www.sncf-reseau.com/) | Sep 2010 - Apr 2012
 
-> **Role:** Sofware Analyst  
+> **Role:** Software Analyst  
 **Stack:** Java Spring, Oracle SQL
 
 - Participate in software requirements of large scale train traking system
@@ -82,7 +82,7 @@ Accomplished Lead Software Developer specialized in web development, integration
 
 ### [VFLI](https://www.vfli.fr/) | Sept 2009 - Aug 2010
 
-> **Role:** Sofware Analyst  
+> **Role:** Software Analyst  
 **Stack:** LAMP
 
 - Build desktop app to track train drivers shifts
