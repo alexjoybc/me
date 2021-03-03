@@ -75,7 +75,7 @@ Accomplished Lead Software Developer specialized in web development, integration
 > **Role:** Software Analyst  
 **Stack:** Java Spring, Oracle SQL
 
-- Participate in software requirements of large scale train traking system
+- Participate in software requirements of large scale train tracking system
 - Write SQL queries to validate software financial projections
 - Organized workshop to present software to company's clients
 
