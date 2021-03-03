@@ -27,7 +27,7 @@ Accomplished Lead Software Developer specialized in web development, integration
 **Stack:** Spring boot, Quarkus, React, dotNet Core
 
 - Lead teams of 5-10 persons, including developers, UX designers, QA Analyst and Devops Specialists
-- Design, Developed and Maintain Cloud Ready solutions including Restfull Apis, Microservices app and JavaScript UI
+- Design, Developed and Maintain Cloud Ready solutions including Restful Apis, Microservices app and JavaScript UI
 - Organized Development lifecycle following The open source way principles
 - Facilitate development of new feature by writing product requirement with client and enforcing to start work with an Issue.
 - Improve client confidence in regular deployment to production by following devops practices, enforcing code quality and unit testing.
