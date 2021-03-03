@@ -6,7 +6,7 @@
 
 ## Summary
 
-Accomplished Lead Software Developer specialized in web development, integration and micro services, I have experience in the full life cycle of the software development process and devops practices. I enjoy mentoring teams and always look forward to improve code quality standards.
+Accomplished Lead Software Developer specialized in web development, integration and micro services, I have experience in the full life cycle of the software development process and devops practices. I enjoy mentoring teams and always look forward to improving code quality standards.
 
 ## Skills
 
